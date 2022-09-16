@@ -10,8 +10,8 @@ const CollectionConfig: CollectionConfigInterface = {
   // yarn rename-contract NEW_CONTRACT_NAME
   // Please DO NOT change it manually!
   contractName: 'GreatChairs',
-  tokenName: 'My NFT Token',
-  tokenSymbol: 'MNT',
+  tokenName: 'MyChairToken',
+  tokenSymbol: 'MCT',
   hiddenMetadataUri: 'ipfs://__CID__/hidden.json',
   maxSupply: 10000,
   whitelistSale: {
